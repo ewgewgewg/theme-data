@@ -1,0 +1,19 @@
+{
+    "name": "theme-data",
+    "version": "0.0.1",
+    "description": "Generates themed data",
+    "license": "MIT",
+    "repository": "ewgewgewg/theme-data",
+    "main": "index.js",
+    "keywords": [
+        "faker",
+        "fake",
+        "data",
+        "casual",
+        "random",
+        "mock",
+        "test",
+        "generator",
+        "seed"
+    ]
+}
