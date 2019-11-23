@@ -16,5 +16,5 @@ const theme = require("theme-data");
 theme.hero();
 // => a random hero, as a string
 
-them.villain();
+theme.villain();
 // => a random villain, as a string
