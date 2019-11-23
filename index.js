@@ -15,11 +15,11 @@ module.exports = {
     ],
 
     hero: function (){
-        return heroGroup[Math.floor(Math.random()*heroGroup.length)];
+        return heroGroup[Math.floor(Math.random()*this.heroGroup.length)];
     },
 
     villain: function (){
-        return villainGroup[Math.floor(Math.random()*villainGroup.length)];
+        return villainGroup[Math.floor(Math.random()*this.villainGroup.length)];
     }
 
 }
